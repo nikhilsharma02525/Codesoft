@@ -27,5 +27,32 @@ Tool Used: VS Code
 
 🧩 Task 3 : Password Generator 🎯
 
+This project is developed as part of my CodeSoft Internship .
+It is a simple Password Generator built in Python that creates secure passwords with options to include uppercase letters, digits, and symbols.
+
+🚀 Features
+
+Generates a random password of custom length
+
+Options to include:
+
+🔡 Lowercase letters (always included)
+
+🔠 Uppercase letters
+
+🔢 Numbers
+
+🔣 Symbols
+
+Prevents too-short passwords
+
+User-friendly command-line interface
+
+🛠️ Tools & Technologies
+
+Language: Python 
+
+string (for character sets)
+
 
 
