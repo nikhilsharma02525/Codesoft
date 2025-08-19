@@ -52,9 +52,28 @@ User-friendly command-line interface
 
 🧩 Task 5 : Contact book 🎯
 
+This project is developed as part of my CodeSoft Internship.
+It is a Contact Management System built in Python that allows users to store, view, search, update, and delete contacts easily through a simple command-line interface.
+
+🚀 Features
+
+📌 Add Contact – Save name, phone number, email, and address
+
+📋 View Contacts – Display all stored contacts in a formatted list
+
+🔍 Search Contact – Find a contact by name or phone number
+
+✏️ Update Contact – Modify existing contact details
+
+❌ Delete Contact – Remove a contact from the list
+
+🖥️ User-Friendly Menu System – Navigate options easily
+
+🛠️ Tools & Technologies
+
+Language: Python
 
 
-string (for character sets)
 
 
 
