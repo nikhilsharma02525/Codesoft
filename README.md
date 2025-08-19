@@ -48,9 +48,11 @@ Prevents too-short passwords
 
 User-friendly command-line interface
 
-🛠️ Tools & Technologies
 
-Language: Python 
+
+🧩 Task 5 : Contact book 🎯
+
+
 
 string (for character sets)
 
