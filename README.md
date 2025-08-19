@@ -25,6 +25,8 @@ Language: Python 3
 Tool Used: VS Code 
 
 
+
+
 🧩 Task 3 : Password Generator 🎯
 
 This project is developed as part of my CodeSoft Internship .
@@ -47,6 +49,8 @@ Options to include:
 Prevents too-short passwords
 
 User-friendly command-line interface
+
+
 
 
 
